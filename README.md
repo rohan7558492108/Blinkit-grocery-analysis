@@ -1,7 +1,16 @@
 
-Main Title: Blinkit-grocery-analysis
+ Title: Blinkit-grocery-analysis
 -Clearly indicates the dashboard's purpose — analyzing outlet performance over time.
 A line + area chart shows sales trends (2012–2022), visually reflecting peaks (2018) and troughs (2020).
+
+
+Description/Purpose:
+To analyze Blinkit outlet performance based on sales, item types, outlet characteristics, and customer ratings, helping management understand trends and optimize inventory, location planning, and customer satisfaction.
+
+Outlet Establishment Trend (Line Chart)
+🔖 Headline: Sales Over the Years (2012–2022)
+Purpose: Track how Blinkit’s total sales evolved over time.
+Highlight: Sales peaked between 2016–2018; gradual dip observed post-2018.
 
 1) Cards (Top Right)
 Avg Sales - $140.99
